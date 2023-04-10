@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kkala
+ *
+ */
+module samples {
+}
